@@ -29,7 +29,7 @@ public class KhachHangNuocNgoai extends KhachHang{
                 "customerID='" + getCustomerID() + '\'' +
                 ", name='" + getName() + '\'' +
                 ", billDate='" + getBillDate() + '\'' +
-                "nationality='" + getNationality() + '\'' +
+                ", nationality='" + getNationality() + '\'' +
                 ", amount=" + getAmount() +
                 ", bill=" + getBill() +
                 '}';

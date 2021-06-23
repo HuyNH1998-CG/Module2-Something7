@@ -29,7 +29,7 @@ public class KhachHangVietNam extends KhachHang {
                 "customerID='" + getCustomerID() + '\'' +
                 ", name='" + getName() + '\'' +
                 ", billDate='" + getBillDate() + '\'' +
-                "amount=" + getAmount() +
+                ", amount=" + getAmount() +
                 ", bill=" + getBill() +
                 ", upperLimit=" + getUpperLimit() +
                 '}';
